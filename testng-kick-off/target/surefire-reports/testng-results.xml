@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="6" total="7" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Lits Test NG first suite 1" duration-ms="62" started-at="2020-01-15T19:14:09Z" finished-at="2020-01-15T19:14:10Z">
+    <groups>
+      <group name="add">
+        <method signature="CalculatorAddOperation.testAdd()[pri:0, instance:com.lits.rubinskyy.calculator.CalculatorAddOperation@79698539]" name="testAdd" class="com.lits.rubinskyy.calculator.CalculatorAddOperation"/>
+      </group> <!-- add -->
+      <group name="calculator">
+        <method signature="CalculatorAddOperation.testAdd()[pri:0, instance:com.lits.rubinskyy.calculator.CalculatorAddOperation@79698539]" name="testAdd" class="com.lits.rubinskyy.calculator.CalculatorAddOperation"/>
+      </group> <!-- calculator -->
+      <group name="simple-operation">
+        <method signature="CalculatorAddOperation.testAdd()[pri:0, instance:com.lits.rubinskyy.calculator.CalculatorAddOperation@79698539]" name="testAdd" class="com.lits.rubinskyy.calculator.CalculatorAddOperation"/>
+      </group> <!-- simple-operation -->
+    </groups>
+    <test name="add tests" duration-ms="62" started-at="2020-01-15T19:14:09Z" finished-at="2020-01-15T19:14:10Z">
+      <class name="com.lits.rubinskyy.calculator.CalculatorAddOperation">
+        <test-method status="PASS" signature="testAdd()[pri:0, instance:com.lits.rubinskyy.calculator.CalculatorAddOperation@79698539]" name="testAdd" duration-ms="14" started-at="2020-01-15T19:14:09Z" description="This test adds two value" finished-at="2020-01-15T19:14:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd -->
+      </class> <!-- com.lits.rubinskyy.calculator.CalculatorAddOperation -->
+    </test> <!-- add tests -->
+  </suite> <!-- Lits Test NG first suite 1 -->
+</testng-results>

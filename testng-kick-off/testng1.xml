@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Lits Test NG first suite 1" verbose="1" parallel="false">
+    <!--    <listeners>-->
+    <!--        <listener class-name=""/>-->
+    <!--    </listeners>-->
+    <test name="add tests">
+
+        <groups>
+            <run>
+                <include name="add" />
+            </run>
+        </groups>
+
+        <packages>
+            <package name="com.lits.rubinskyy.calculator"></package>
+        </packages>
+
+    </test>
+</suite>

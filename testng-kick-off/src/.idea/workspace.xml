@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4b5da93-743f-47d0-bda6-ca7b48af30dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/Lits.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/.idea/libraries/Maven__org_projectlombok_lombok_1_18_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/HW2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/out/production/HW2/META-INF/HW2.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/out/production/HW2/com/lits/automation/hw4/Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/out/production/HW2/com/lits/automation/hw4/CharArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/out/production/HW2/com/lits/automation/hw4/IntegerArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/out/production/HW2/com/lits/automation/hw4/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/out/production/HW2/com/lits/automation/hw4/MathOperation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/out/production/HW2/com/lits/automation/hw4_vehicle/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/out/production/HW2/com/lits/automation/hw4_vehicle/Category.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/out/production/HW2/com/lits/automation/hw4_vehicle/ElectricCar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/out/production/HW2/com/lits/automation/hw4_vehicle/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/out/production/HW2/com/lits/automation/hw4_vehicle/Sedan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/out/production/HW2/com/lits/automation/hw4_vehicle/Vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/src/main/java/com/lits/automation/hw2/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/src/main/java/com/lits/automation/hw2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/src/main/java/com/lits/automation/hw3/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/src/main/java/com/lits/automation/hw3/CodeSchoolPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/src/main/java/com/lits/automation/hw3/JavaAdvancedPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/src/main/java/com/lits/automation/hw3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/src/main/java/com/lits/automation/hw4/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/src/main/java/com/lits/automation/hw4/CharArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/src/main/java/com/lits/automation/hw4/IntegerArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/src/main/java/com/lits/automation/hw4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/src/main/java/com/lits/automation/hw4/MathOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/src/main/java/com/lits/automation/hw4_vehicle/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/src/main/java/com/lits/automation/hw4_vehicle/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/src/main/java/com/lits/automation/hw4_vehicle/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/src/main/java/com/lits/automation/hw4_vehicle/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/src/main/java/com/lits/automation/hw4_vehicle/Sedan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/src/main/java/com/lits/automation/hw4_vehicle/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/src/main/java/com/lits/automation/hw6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/src/main/java/com/lits/automation/hw6/News.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/src/main/java/com/lits/automation/hw6/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/src/main/java/com/lits/automation/hw7/Guitar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/src/main/java/com/lits/automation/hw7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/src/main/java/com/lits/automation/hw7/MusicInstrument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/src/main/java/com/lits/automation/hw7/Piano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/src/main/java/com/lits/automation/hw7/Violin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/src/main/java/com/lits/automation/hw7_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/target/classes/META-INF/HW2.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/target/classes/com/lits/automation/hw2/Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/target/classes/com/lits/automation/hw2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/target/classes/com/lits/automation/hw3/BasePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/target/classes/com/lits/automation/hw3/CodeSchoolPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/target/classes/com/lits/automation/hw3/JavaAdvancedPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/target/classes/com/lits/automation/hw3/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/target/classes/com/lits/automation/hw4/Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/target/classes/com/lits/automation/hw4/CharArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/target/classes/com/lits/automation/hw4/IntegerArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/target/classes/com/lits/automation/hw4/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/target/classes/com/lits/automation/hw4/MathOperation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/target/classes/com/lits/automation/hw4_vehicle/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/target/classes/com/lits/automation/hw4_vehicle/Category.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/target/classes/com/lits/automation/hw4_vehicle/ElectricCar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/target/classes/com/lits/automation/hw4_vehicle/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/target/classes/com/lits/automation/hw4_vehicle/Sedan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/target/classes/com/lits/automation/hw4_vehicle/Vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/target/classes/com/lits/automation/hw6/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/target/classes/com/lits/automation/hw6/News.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/target/classes/com/lits/automation/hw6/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/target/classes/com/lits/automation/hw7/Guitar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/target/classes/com/lits/automation/hw7/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/target/classes/com/lits/automation/hw7/MusicInstrument.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/target/classes/com/lits/automation/hw7/Piano.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/target/classes/com/lits/automation/hw7/Violin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/target/classes/com/lits/automation/hw7_1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/target/classes/com/lits/automation/hw8/Jacson$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW2/target/classes/com/lits/automation/hw8/Jacson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Less1Maven/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Less1Maven/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Less1Maven/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Less1Maven/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Less1Maven/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Less1Maven/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Less1Maven/Less1Maven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Less1Maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Less1Maven/target/car.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Less1Maven/target/classes/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Less1Maven/target/classes/Jacson$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Less1Maven/target/classes/Jacson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Less1Maven/target/classes/JdbcMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Less1Maven/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Less1Maven/target/classes/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Less1Maven/target/classes/Shop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lesson1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Lesson1/Main.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WLrsxT3tDQGmPeptxYnWSxQ8ql" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4b5da93-743f-47d0-bda6-ca7b48af30dd" name="Default Changelist" comment="" />
+      <created>1578939926685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578939926685</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
